@@ -64,13 +64,5 @@ elif question == 5:
     print("   b) Se uma lâmpada estiver apagada, mas quente ao toque, ela é controlada pelo Interruptor A.")
     print("   c) A lâmpada que está apagada e fria ao toque é controlada pelo Interruptor C.")
     print("Com essas informações, você conseguirá identificar qual interruptor controla cada lâmpada.")
-
-    input("Pressione Enter para finalizar.")
-    input()
-    print("Se você for até a sala 1 e estiver ligada, você sabe que é a A ou B")
-    input()
-    print("Volta, e desliga a A, e deixa a B ligada por um tempo. ")
-
-
 else:
     print("Opção inválida.")
